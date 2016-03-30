@@ -20,4 +20,10 @@
         android:text="Start Service"
         android:onClick="startService"
         />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        />
 </RelativeLayout>
